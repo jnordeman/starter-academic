@@ -78,13 +78,6 @@ experience:
     location: Stuttgart
     date_start: '2017-06-01'
     date_end: '2017-09-01'
-    
-    - title: M&A Intern
-    company: Landesbank Baden-Württemberg 
-    company_url: ''
-    location: Stuttgart
-    date_start: '2017-06-01'
-    date_end: '2017-09-01'
 
     - title: Student Mentor
     company: Lund University School of Economics and Management  
