@@ -44,8 +44,6 @@ experience:
         * Programming-sessions: Provided seminars aimed at giving basic grounding in the use of modern data and programming tools for colleagues at ECB.
         * Data analytics: Created analytical tools used to visualise the latest economic developments.
         
-
-experience:
   - title: Analyst 
     company: ABG Sundal Collier 
     company_url: ''
