@@ -22,24 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Analyst
+    company: DG-Economics Data Integration Team at European Central Bank 
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Frankfurt am Main
+    date_start: '2020-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
+        * Economic research
+        * Policy analyses
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Trainee 
+    company: DG-Economics Data Integration Team at the European Central Bank
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-08-01'
+    date_end: '2020-08-01'
+    description: |2-
+        * Data science: Developed R packages intended to facilitate data retrieval and  data visualisation.
+        * Programming-sessions: Provided seminars aimed at giving basic grounding in the use of modern data and programming tools for colleagues at ECB.
+        * Data analytics: Created analytical tools used to visualise the latest economic developments.
 ---
