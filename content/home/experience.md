@@ -72,19 +72,7 @@ experience:
         Held exercises in Quantitative Methods for third year undergraduate students. Estimation techniques included:
         * Multiple regressions, binary outcome, maximum likelihood estimation and panel regressions
 
-    - title: M&A Intern
-    company: Landesbank Baden-Württemberg 
-    company_url: ''
-    location: Stuttgart
-    date_start: '2017-06-01'
-    date_end: '2017-09-01'
-
-    - title: Student Mentor
-    company: Lund University School of Economics and Management  
-    company_url: ''
-    location: Lund
-    date_start: '2016-10-01'
-    date_end: '2017-01-01'
+ 
 
 
 ---
