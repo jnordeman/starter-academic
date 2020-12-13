@@ -51,9 +51,9 @@ experience:
     date_start: '2019-02-01'
     date_end: '2019-06-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         * Financial modelling
-        * Writing ESG-reports
+
   
 
 
