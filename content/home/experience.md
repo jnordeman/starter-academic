@@ -54,6 +54,13 @@ experience:
         Responsibilities included:
         * Financial modelling
 
+  - title: Student Analyst 
+    company: Nordea 
+    company_url: ''
+    location: Stockholm
+    date_start: '2019-02-01'
+    date_end: '2019-06-01'
+    description: Maintained and automated NAV- and liquidity-controls on Danish investment funds.
   
 
 
