@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Open-hours
+subtitle: 'Small courses aimed at giving basic grounding in the use of modern data and programming tools'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Data wrangling
+    tag: Data wrangling
+  - name: Data visualisation
+    tag: Data visualisation
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
