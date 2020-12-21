@@ -26,20 +26,15 @@ publishDate: "2020-05-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: A thesis submitted in fulfillment of the requirements for the degree of MSc. Applied Economics and Finance.
+publication: Master Thesis (Grade 12/12).
 # publication_short: In *ICW*
 
 abstract: This study investigates the development of investment research in the Swedish stock market in light of the newly implemented regulation, MiFID II. By separating the cost of investment research from the cost of execution and implementing inducement rules, MiFID II is set to disrupt the production and distribution of investment research. Market participants are concerned that these
-changes will lead to a decrease in the supply of investment research and reduce stock liquidity, particularly for smaller firms.
-
-By analyzing investment research in a univariate setting, we find that the number of investment analysts providing research on firms in the Swedish stock market has decreased following MiFID II. The decrease is driven by a reduction of investment analysts covering large firms. To facilitate the investment firms’ demand for firm information, brokerages have gradually refocused their
-offerings to include sponsored research. While this study finds that the number of firms covered by sponsored research has increased, the increase is not statistically significant and sponsored research remains small relative to traditional research.
-
+changes will lead to a decrease in the supply of investment research and reduce stock liquidity, particularly for smaller firms. 
+By analyzing investment research in a univariate setting, we find that the number of investment analysts providing research on firms in the Swedish stock market has decreased following MiFID II. The decrease is driven by a reduction of investment analysts covering large firms. To facilitate the investment firms’ demand for firm information, brokerages have gradually refocused their offerings to include sponsored research. While this study finds that the number of firms covered by sponsored research has increased, the increase is not statistically significant and sponsored research remains small relative to traditional research.
 After incorporating stock liquidity to the analysis, we find a positive relationship between investment analysts and liquidity. The relationship is positive both before and after the implementation of MiFID II. As such, our findings are consistent with related literature and imply that investment analysts add value by providing more information. Furthermore, we find that investment
 analysts have a higher effect on stock liquidity following MiFID II. 
-
 Related literature has highlighted the important issue of endogeneity as analyst coverage and liquidity are simultaneously determined. To mitigate the problem with endogeneity, the relationship between investment analysts and liquidity is estimated using a simultaneous equation model based on the models used by Brennan and Subrahmanyam (1995) and Roulstone (2003).
-
 Our findings are important since they show that firms, investors, and brokerages have a higher benefit from increased research coverage after MiFID II.
 
 tags: []
