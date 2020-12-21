@@ -43,8 +43,9 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Economic Bulletin Box
+- name: "Economic Bulletin Box"
 url: "https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html"
+
 # url_pdf: 'https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html'
 url_code: ''
 url_dataset: ''
