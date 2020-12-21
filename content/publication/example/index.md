@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Inflation measurement in times of economic distress"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-03-01T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
