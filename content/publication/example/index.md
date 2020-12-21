@@ -46,7 +46,7 @@ links:
 - name: Custom Link
 url: 'https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html'
 
-# url_pdf: 'https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
