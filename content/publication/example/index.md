@@ -45,7 +45,7 @@ featured: true
 # links:
 # - name: Custom Link
 # url: "https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html"
-url_pdf: ''
+url_pdf: 'https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -58,8 +58,8 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Euro area HICP weights adjustment during the 2008-2009 downturn'
-  focal_point: "The chart shows the HICP weights for each category at different points in time. For each category, the weights are normalised so that the inner circle represents the lowest (weight) value since 2001 and the outer ring represents the highest (weight) value since 2001."
-  preview_only: false
+  focal_point: ""
+  preview_only: true
 
 
 # Associated Projects (optional).
