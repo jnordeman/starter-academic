@@ -57,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Euro area HICP weights adjustment during the 2008-2009 downturn'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Euro area HICP weights adjustment during the 2008-2009 downturn'
+#   focal_point: ""
+#   preview_only: false
 
 
 # Associated Projects (optional).
