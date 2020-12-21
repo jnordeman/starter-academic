@@ -43,8 +43,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: "Economic Bulletin Box"
-url: "https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html"
+- name: Custom Link
+url: 'https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html'
 
 # url_pdf: 'https://www.ecb.europa.eu/pub/economic-bulletin/focus/2020/html/ecb.ebbox202003_04~537bb1d72e.en.html'
 url_code: ''
@@ -60,7 +60,7 @@ url_video: ''
 image:
   caption: 'Euro area HICP weights adjustment during the 2008-2009 downturn'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 
 # Associated Projects (optional).
