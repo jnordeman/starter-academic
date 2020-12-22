@@ -1,7 +1,20 @@
 ---
-title: "My Awesome Post"
-author: "John Doe"
-date: "2017-02-14"
+title: New open-hour
+summary: An example of using the in-built project page.
+tags: 
+- Other
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
 output:
   blogdown::html_page:
     toc: true
