@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills & Interests
 subtitle:
 
 # Showcase personal skills or business features.
@@ -23,11 +23,26 @@ feature:
 - description: ""
   icon: chart-line
   icon_pack: fas
-  name: Data analysis
+  name: Data Analysis
 - description: ""
-  icon: paint-brush
+  icon: brush
   icon_pack: fas
   name: Data visualisation
+- description: ""
+  icon: mountain
+  icon_pack: fas
+  name: Adventuring
+- description: ""
+  icon: golf-ball
+  icon_pack: fas
+  name: Golf
+- description: ""
+  icon: dumbbell
+  icon_pack: fas
+  name: Sports
+
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -9,10 +9,10 @@
   weight = 10
 
 
-[[main]]
-  name = "Open-hours"
-  url = "#projects"
-  weight = 30
+# [[main]]
+#  name = "Teaching"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
   name = "Research"

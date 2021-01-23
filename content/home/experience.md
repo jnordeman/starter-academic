@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work experience
 subtitle:
 
 # Date format for experience
@@ -36,7 +36,7 @@ experience:
     date_start: '2019-08-01'
     date_end: '2020-08-01'
 
-  - title: Analyst 
+  - title: Equity Analyst 
     company: ABG Sundal Collier 
     company_url: ''
     location: Stockholm

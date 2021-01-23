@@ -1,9 +1,9 @@
 ---
-title: New open-hour
-summary: An example of using the in-built project page.
+title: Line chart
+summary: Enhance your line charts with ggtext.
 tags:
-- Other
-date: "2016-04-27T00:00:00Z"
+- "Data visualisation"
+date: "2021-01-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -25,13 +25,19 @@ output:
     dev: "svg"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
-```{r final-chart, echo=TRUE,eval=FALSE}
 
+## Objective 
+
+- Create a line chart using ggplot2
+- Introduce ggtext
+- Customise theme, axis, line colours and  title colours
+
+## Code in its entirety
+
+
+```r
 library(ggtext)
 library(tidyverse)
 
@@ -71,8 +77,10 @@ inflation_plot <-hicp_hicpx %>%
 
 
 inflation_plot
-
 ```
+
+
+## Some text explaining the steps
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

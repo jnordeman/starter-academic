@@ -14,13 +14,14 @@ role: Research Analyst at European Central Bank
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 # Interests to show in About widget
 interests:
-- Finance and Economics
-- Data Visualisation
 - Data Analysis
+- Data Visualisation
+- Econometrics
+- Finance and Economics
 
 
 # Education to show in About widget
@@ -40,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:jakobnordeman@gmail.com
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -68,6 +69,6 @@ email: "jakobnordeman@gmail.com"
 highlight_name: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi everyone, I'm Jakob! I am currently a Research Analyst at the European Central Bank, where I spend the majority of my time coding in R. For the most part, this means wrangling and visualise economic data but I have also had the opportunity to develop and contribute to various internal R-packages. I am also working to close the knowledge gaps in the field of data science and I have held various  seminars aimed to give a basic grounding in the use of modern data and programming tools for colleagues at the bank.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
