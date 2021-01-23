@@ -27,7 +27,7 @@ feature:
 - description: ""
   icon: brush
   icon_pack: fas
-  name: Data visualisation
+  name: Data Visualisation
 - description: ""
   icon: mountain
   icon_pack: fas
