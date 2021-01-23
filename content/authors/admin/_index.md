@@ -69,7 +69,7 @@ email: "jakobnordeman@gmail.com"
 highlight_name: false
 ---
 
-Hi everyone, I'm Jakob! I am currently a Research Analyst at the European Central Bank, where I spend the majority of my time coding in R. For the most part, this means wrangling and visualise economic data but I have also had the opportunity to develop and contribute to various internal R-packages. I am also working to close the knowledge gaps in the field of data science and I have held various  seminars aimed to give a basic grounding in the use of modern data and programming tools for colleagues at the bank.
+Hi everyone, I'm Jakob! I am currently a Research Analyst at the European Central Bank, where I spend the majority of my time coding in R. For the most part, this means wrangling and visualing economic data but I have also had the opportunity to develop and contribute to various internal R-packages. I am also working to close the knowledge gaps in the field of data science and I have held various  seminars aimed to give a basic grounding in the use of modern data and programming tools for colleagues at the bank.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
