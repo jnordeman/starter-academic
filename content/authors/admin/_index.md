@@ -73,4 +73,4 @@ Hi everyone, I'm Jakob! I am currently working as a Research Analyst at the Euro
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-Views my own.
+DISCLAIMER: The views expressed are solely my own and do not necessary reflect those of the European Central Bank. 
