@@ -19,6 +19,11 @@
   url = "#featured"
   weight = 50
 
+[[main]]
+  name = "Projects"
+  url = "#project"
+  weight = 50
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and tuncomment the lines below.
