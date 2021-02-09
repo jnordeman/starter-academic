@@ -1,5 +1,5 @@
 ---
-title: "Economics Dashboard"
+title: "Economic Dashboard"
 summary: Analytical tool used to visualise the latest economic developments 
 tags:
 - Other
