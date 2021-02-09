@@ -23,6 +23,6 @@ url_video: ""
 # slides: example
 ---
 
-As a part of a home assignment in Time Series for Economics, Business and Finance, I analysed the return of Kinnevik --- a Swedish investment company. The project gave me hands-on experience with a wide range of statistical software package in R (e.g. quantmod, data.table, ggplot2, rugarch and dynlm) and taught me how to model and forecast volatility using various ARCH specifications. Throughout the process I got familiar with data cleaning; time series and machine learning methods for model building; as well as forecasting and prediction. 
+As a part of a home assignment in Time Series for Economics, Business and Finance, I analysed the return of Kinnevik --- a Swedish investment company. The project gave me hands-on experience with a wide range of statistical software packages in R (e.g. quantmod, data.table, ggplot2, rugarch and dynlm) and taught me how to model and forecast volatility using various ARCH specifications. Throughout the process I got familiar with data cleaning; time series and machine learning methods for model building; as well as forecasting and prediction. 
 
  
