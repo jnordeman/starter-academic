@@ -1,6 +1,6 @@
 ---
 title: "Data Academy"
-summary:  Working group to establish a data curriculum aimed at closing the knowledge gaps in the field of data science. 
+summary:  Working group to establish a data curriculum aimed at closing the knowledge gaps in the field of data science 
 tags:
 - Teaching
 date: "2020-06-15T00:00:00Z"

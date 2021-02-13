@@ -1,6 +1,6 @@
 ---
 title: "Quantitative Methods"
-summary:  Teaching assistant on the Quantitative Methods course for third year undergraduate students at CBS. 
+summary:  Teaching assistant on the Quantitative Methods course for third year undergraduate students at CBS
 tags:
 - Teaching
 date: "2018-12-01T00:00:00Z"

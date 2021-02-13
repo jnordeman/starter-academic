@@ -2,7 +2,7 @@
 title: Big Data Analytics
 summary: A group project on the relevance of social media data in the airline industry
 tags:
-- "Selected coursework"
+- "Coursework"
 date: "2018-12-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,6 +1,6 @@
 ---
 title: "Open-hours"
-summary:  Exercise sessions aimed to give a basic grounding in the use of modern data and programming tools. 
+summary:  Exercise sessions aimed to give a basic grounding in the use of modern data and programming tools
 tags:
 - Teaching
 date: "2020-08-15T00:00:00Z"

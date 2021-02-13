@@ -1,6 +1,6 @@
 ---
 title: "Package Dev"
-summary:  Developed internal R-packages that faciliates data retrieval, data wrangling and data visualisation. 
+summary:  Developed internal R-packages that faciliates data retrieval, data wrangling and data visualisation 
 tags:
 - Other
 date: "2021-01-15T00:00:00Z"

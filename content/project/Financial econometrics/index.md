@@ -2,7 +2,7 @@
 title: "Financial Econometrics"
 summary: A cases study on a Swedish investment company 
 tags:
-- Selected coursework
+- Coursework
 date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

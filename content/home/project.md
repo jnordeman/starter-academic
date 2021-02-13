@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Teaching
     tag: Teaching
-  - name: Selected coursework
-    tag: Selected coursework
+  - name: Coursework
+    tag: Coursework
   - name: Other
     tag: Other
 
