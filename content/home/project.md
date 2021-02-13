@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: ''  
 
 content:
   # Page type to display. E.g. project.
@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Teaching
+    tag: Teaching
   - name: Selected coursework
     tag: Selected coursework
   - name: Other
